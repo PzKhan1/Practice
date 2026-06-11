@@ -19,7 +19,7 @@ import java.util.UUID;
 @RequestMapping("/api")
 public class ProductController {
 
-   //My name is Khan and i am here to test pull requests. Thanks !!But i am back again to learn  merge Conflict..
+   //My name is Khan and i am here to test pull this is real twist. Thanks !!But i am back again to learn  merge Conflict..
     public ProductRepository productRepository;
     public ProductServiceIMPL productServiceIMPL;
     public ProductController(ProductRepository pr, ProductServiceIMPL psimpl){
